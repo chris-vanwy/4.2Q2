@@ -1,0 +1,14 @@
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.2\VanWy Assignment 4.2Q2\VanWy Assignment 4.2Q2\obj\Debug\netcoreapp3.1\VanWy Assignment 4.2Q2.csproj.AssemblyReference.cache
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.2\VanWy Assignment 4.2Q2\VanWy Assignment 4.2Q2\obj\Debug\netcoreapp3.1\VanWy Assignment 4.2Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.2\VanWy Assignment 4.2Q2\VanWy Assignment 4.2Q2\obj\Debug\netcoreapp3.1\VanWy Assignment 4.2Q2.AssemblyInfoInputs.cache
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.2\VanWy Assignment 4.2Q2\VanWy Assignment 4.2Q2\obj\Debug\netcoreapp3.1\VanWy Assignment 4.2Q2.AssemblyInfo.cs
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.2\VanWy Assignment 4.2Q2\VanWy Assignment 4.2Q2\obj\Debug\netcoreapp3.1\VanWy Assignment 4.2Q2.csproj.CoreCompileInputs.cache
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.2\VanWy Assignment 4.2Q2\VanWy Assignment 4.2Q2\bin\Debug\netcoreapp3.1\VanWy Assignment 4.2Q2.exe
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.2\VanWy Assignment 4.2Q2\VanWy Assignment 4.2Q2\bin\Debug\netcoreapp3.1\VanWy Assignment 4.2Q2.deps.json
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.2\VanWy Assignment 4.2Q2\VanWy Assignment 4.2Q2\bin\Debug\netcoreapp3.1\VanWy Assignment 4.2Q2.runtimeconfig.json
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.2\VanWy Assignment 4.2Q2\VanWy Assignment 4.2Q2\bin\Debug\netcoreapp3.1\VanWy Assignment 4.2Q2.runtimeconfig.dev.json
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.2\VanWy Assignment 4.2Q2\VanWy Assignment 4.2Q2\bin\Debug\netcoreapp3.1\VanWy Assignment 4.2Q2.dll
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.2\VanWy Assignment 4.2Q2\VanWy Assignment 4.2Q2\bin\Debug\netcoreapp3.1\VanWy Assignment 4.2Q2.pdb
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.2\VanWy Assignment 4.2Q2\VanWy Assignment 4.2Q2\obj\Debug\netcoreapp3.1\VanWy Assignment 4.2Q2.dll
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.2\VanWy Assignment 4.2Q2\VanWy Assignment 4.2Q2\obj\Debug\netcoreapp3.1\VanWy Assignment 4.2Q2.pdb
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.2\VanWy Assignment 4.2Q2\VanWy Assignment 4.2Q2\obj\Debug\netcoreapp3.1\VanWy Assignment 4.2Q2.genruntimeconfig.cache
